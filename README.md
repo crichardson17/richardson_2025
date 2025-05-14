@@ -1,1 +1,1 @@
-# richardson_2025
+# Models are only available upon request until the manuscript is fully accepted to ApJ
