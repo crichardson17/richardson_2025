@@ -1,1 +1,1 @@
-# Models are only available upon request until the manuscript is fully accepted to ApJ
+# Models available upon request
